@@ -11,7 +11,7 @@ The Progressive Regressive algorithm consists of two parts: progressive and regr
 
 2. Regressive: in regressive vesting, when employees aren't working for the company anymore they get "unvested", which means they transfer back received assets. This transfer occurs exactly how the progressive vesting ocurred.
 
-This method is intended to avoid asset errosion, maintain good employees and provide extra incentive for them.
+This method is intended to avoid asset errosion, retain talents and provide extra incentive for them.
 
 ## Requirements
 
