@@ -1,0 +1,10 @@
+,num_working_employees,num_entering_employees,num_leaving_employees,num_fired_employees,num_quitted_employees
+0,4,4,0,0,0
+1,4,0,0,0,0
+2,5,1,0,0,0
+3,6,1,0,0,0
+4,7,1,0,0,0
+5,5,0,2,1,1
+6,4,0,1,1,0
+7,2,0,2,1,1
+8,2,0,0,0,0
