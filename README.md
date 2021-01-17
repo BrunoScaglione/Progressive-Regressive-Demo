@@ -113,6 +113,6 @@ Above file has an example with more goals.
 
 ## Authors
 
-Renato is the patent owner
+Renato Baccaro is the patent owner. Here is his [linkedin](https://www.linkedin.com/in/baccaro/) profile
 
 Bruno Scaglione is the author of the project. Here is my [linkedin](https://www.linkedin.com/in/bruno-scaglione-4412a0165/) profile. 
