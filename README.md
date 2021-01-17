@@ -63,12 +63,12 @@ The file Demo options has 4 sheets:
  ```bash 
     output/csv
   ``` 
-stores the states history (csv files) of employees and the company, generated on the simulation by simulate.py.
+Above folder stores the states history (csv files) of employees and the company, generated on the simulation by simulate.py.
 
  ```bash 
    output/figures
    ``` 
-stores plots (png images) of attributes of the employee's and company's states history. Details can be seen in "Results options" sheet of the "Demo options" file.
+Above folder stores plots (png images) of attributes of the employee's and company's states history. Details can be seen in "Results options" sheet of the "Demo options" file.
 
 ### Commands
 
