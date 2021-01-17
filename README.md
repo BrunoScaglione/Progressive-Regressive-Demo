@@ -100,7 +100,7 @@ Above folder stores plots (png images) of attributes of the employee's and compa
 
 ## Simulation
 
-In the simulation you will be requested to input, in the terminal, the goals with corresponding weights for each employee for each month he is working (except if you have selected "goals_setting" as "fixed", in this case only for the first month of each employee).
+In the simulation you will be requested to input, in the terminal, the goals with corresponding weights for each employee for each month he is working (except if you have selected "goals setting" as "Fixed" in Simulation options sheet, in this case only for the first month of each employee).
 
 The format must be each goal:weight separated by whitespace.
 
