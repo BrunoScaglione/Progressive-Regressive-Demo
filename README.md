@@ -31,10 +31,10 @@ The root directory:
   - simulation &#8594; contains files regarding the algorithm;
       - options;
           - init.py &#8594; loads options from excel.
-      - simulate.py &#8594; runs the simulation based on input options;
       - modules &#8594; contains files of entities of the simulation.
           - company.py &#8594; class Company;
           - employee.py &#8594; class Employee.
+      - simulate.py &#8594; runs the simulation based on input options;
   - utils &#8594; contains complementary files
       - clean.py &#8594; deletes all files and folders generated in output;
       - dummy_goals.txt &#8594; example of in-simulation input of goals with weights that can be copy pasted.
