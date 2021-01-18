@@ -72,7 +72,7 @@ Above folder stores plots (png images) of attributes of the employee's and compa
 
 ### Commands
 
-* to run the simulation, save csv and png files and plot results:
+* to run the simulation, save csv and png files, and plot results:
 
 ```bash
    python main.py
