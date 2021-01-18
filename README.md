@@ -9,13 +9,13 @@ The Progressive Regressive algorithm consists of two parts: progressive and regr
 
 1. Progressive: in progressive vesting, employees get vested according to a function of the ratio of goals completed by all goals, in the month.
 
-2. Regressive: in regressive vesting, when employees aren't working for the company anymore they get "unvested", which means they transfer back received assets. This transfer occurs exactly how the progressive vesting ocurred.
+2. Regressive: in regressive vesting, when employees aren't working for the company anymore they get "unvested", which means they transfer back received assets. This transfer occurs exactly how the progressive vesting occurred.
 
 This method is intended to avoid asset erosion, retain talents and provide extra incentive for them.
 
 ## Requirements
 
-The project has some dependecies that need to be installed first.
+The project has some dependencies that need to be installed first.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies.
 
@@ -53,7 +53,7 @@ The root directory:
 ### Input 
 
 The file Demo options has 4 sheets: 
-  - Index &#8594; explanation of paramaters, details of model and notes;
+  - Index &#8594; explanation of parameters, details of model and notes;
   - Contract options &#8594; contract parameters;
   - Simulations options &#8594; simulation parameters;
   - Results options &#8594; results parameters.
@@ -113,6 +113,6 @@ Above file has an example with more goals.
 
 ## Authors
 
-Renato Baccaro is the patent owner. Here is his [linkedin](https://www.linkedin.com/in/baccaro/) profile
+Renato Baccaro is the inventor and pending patent holder of this project. Here is his [linkedin](https://www.linkedin.com/in/baccaro/) profile
 
-Bruno Scaglione is the author of the project. Here is my [linkedin](https://www.linkedin.com/in/bruno-scaglione-4412a0165/) profile. 
+Bruno Scaglione is the developer of the project. Here is my [linkedin](https://www.linkedin.com/in/bruno-scaglione-4412a0165/) profile. 
